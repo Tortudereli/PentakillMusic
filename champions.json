@@ -1,0 +1,14 @@
+[
+    {
+        "champion": "Sylas",
+        "audioPath": "https://raw.githubusercontent.com/Tortudereli/PentakillMusic/main/src/audio/pentakillSoundSylas.mp3"
+    },
+    {
+        "champion": "Viego",
+        "audioPath": "https://raw.githubusercontent.com/Tortudereli/PentakillMusic/main/src/audio/pentakillSoundViego.mp3"
+    }, 
+    {
+        "champion": "Jhin",
+        "audioPath": "https://raw.githubusercontent.com/Tortudereli/PentakillMusic/main/src/audio/pentakillSoundJhin.mp3"
+    }
+]
